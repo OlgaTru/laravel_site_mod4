@@ -1,0 +1,26 @@
+/*sup {
+    vertical-align: sub;
+    font-size: smaller;
+}*/
+/*-----AD, POPUP----------------------*/
+.popover-content, .popover-title {
+    text-align: center;
+}
+.popover-title{
+    color: #ffa500;
+    font-size: larger;
+}
+h5.card-title.price{
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.price-scale {
+    transform:scale(0.9);
+    -moz-transform:scale(0.9);
+    font-size:17px;
+    font-weight:600;
+    color:#ffa500;
+    box-sizing:border-box;
+    transition: all .2s ease-in-out;
+}
+/*-----------------------------------------*/
